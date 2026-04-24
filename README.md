@@ -119,6 +119,7 @@ n = 10
 ## 👤 Author
 
 **Abdur Rahman**
+
 Computer & Communication Engineering Student
 
 * GitHub: [https://github.com/your-username](https://github.com/your-username)
